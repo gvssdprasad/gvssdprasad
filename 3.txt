@@ -5,5 +5,17 @@ git config --list
 git init
 git add .
 git commit -m " message"
+git clone url 
+git ls-file
+git push
+git status 
+git log
+git log --oneline
+git pull
+git branch branch-name
+git checkot branch-name
+git branch  -D branch-name
+git stash 
+git diff
 nothing to change 
 
